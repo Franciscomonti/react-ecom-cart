@@ -1,0 +1,149 @@
+[{
+        "id": "1",
+        "nombre": "Air 90",
+        "marca": "Nike",
+        "codigo": "NA9000",
+        "tipo": "Sneakers",
+        "precio": 25000.00,
+        "stock": "10",
+        "descripcion": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing  elit, sed do eiusmod tempor incididunt ut",
+        "descripcionLarga": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing  elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adip      iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed",
+        "portada": "/img/nike/Nike_air_90/nike_air_90_index.webp",
+        "left": "/img/nike/Nike_air_90/nike_air_90_left.webp",
+        "right": "/img/nike/Nike_air_90/nike_air_90_right.webp",
+        "up": "/img/nike/Nike_air_90/nike_air_90_up.webp",
+        "down": "/img/nike/Nike_air_90/nike_air_90_down.webp",
+        "back": "/img/nike/Nike_air_90/nike_air_90_back.webp"
+
+    },
+
+    {
+        "id": "2",
+        "nombre": "Air Trainer",
+        "marca": "Nike",
+        "codigo": "NAT200",
+        "tipo": "Sneakers",
+        "precio": 25000.00,
+        "stock": "15",
+        "descripcion": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing  elit, sed do eiusmod tempor incididunt ut",
+        "descripcionLarga": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing  elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adip      iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed",
+        "portada": "/img/nike/Nike_air_trainer/nike_air_trainer_index.webp",
+        "left": "/img/nike/Nike_air_trainer/nike_air_trainer_left.webp",
+        "right": "/img/nike/Nike_air_trainer/nike_air_trainer_right.webp",
+        "up": "/img/nike/Nike_air_trainer/nike_air_trainer_up.webp",
+        "down": "/img/nike/Nike_air_trainer/nike_air_trainer_down.webp",
+        "back": "/img/nike/Nike_air_trainer/nike_air_trainer_back.webp"
+    },
+
+    {
+        "id": "3",
+        "nombre": "Lebron",
+        "marca": "Nike",
+        "codigo": "NLE100",
+        "tipo": "Tshirt",
+        "precio": 25000.00,
+        "stock": "20",
+        "descripcion": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing  elit, sed do eiusmod tempor incididunt ut",
+        "descripcionLarga": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing  elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adip      iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed",
+        "portada": "/img/nike/Nike_lebron/nike_lebron_index.webp",
+        "left": "/img/nike/Nike_lebron/nike_lebron_left.webp",
+        "right": "/img/nike/Nike_lebron/nike_lebron_right.webp",
+        "up": "/img/nike/Nike_lebron/nike_lebron_up.webp",
+        "down": "/img/nike/Nike_lebron/nike_lebron_down.webp",
+        "back": "/img/nike/Nike_lebron/nike_lebron_back.webp"
+    },
+
+    {
+        "id": "4",
+        "nombre": "Zoom",
+        "marca": "Nike",
+        "codigo": "NZM100",
+        "tipo": "Sneakers",
+        "precio": 25000.00,
+        "stock": "7",
+        "descripcion": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing  elit, sed do eiusmod tempor incididunt ut",
+        "descripcionLarga": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing  elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adip      iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed",
+        "portada": "/img/nike/Nike_zoom/nike_zoom_index.webp",
+        "left": "/img/nike/Nike_zoom/nike_zoom_left.webp",
+        "right": "/img/nike/Nike_zoom/nike_zoom_right.webp",
+        "up": "/img/nike/Nike_zoom/nike_zoom_up.webp",
+        "down": "/img/nike/Nike_zoom/nike_zoom_down.webp",
+        "back": "/img/nike/Nike_zoom/nike_zoom_back.webp"
+
+    },
+
+    {
+        "id": "5",
+        "nombre": "Crazy",
+        "marca": "Adidas",
+        "codigo": "AC9000",
+        "tipo": "Sneakers",
+        "precio": 35000.00,
+        "stock": "3",
+        "descripcion": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing  elit, sed do eiusmod tempor incididunt ut",
+        "descripcionLarga": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing  elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adip      iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed",
+        "portada": "/img/adidas/crazy/crazy_portada.webp",
+        "left": "/img/adidas/crazy/crazy_left.webp",
+        "right": "/img/adidas/crazy/crazy_left.webp",
+        "up": "/img/adidas/crazy/crazy_up.webp",
+        "down": "/img/adidas/crazy/crazy_down.webp",
+        "back": "/img/adidas/crazy/crazy_back.webp"
+    },
+
+    {
+        "id": "6",
+        "nombre": "Nmd",
+        "marca": "Adidas",
+        "codigo": "ANM230",
+        "tipo": "Sneakers",
+        "precio": 30000.00,
+        "stock": "4",
+        "descripcion": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing  elit, sed do eiusmod tempor incididunt ut",
+        "descripcionLarga": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing  elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adip      iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed",
+
+        "portada": "/img/adidas/nmd/nmd_portada.webp",
+        "left": "/img/adidas/nmd/nmd_left.webp",
+        "right": "/img/adidas/nmd/nmd_left.webp",
+        "up": "/img/adidas/nmd/nmd_up.webp",
+        "down": "/img/adidas/nmd/nmd_down.webp",
+        "back": "/img/adidas/nmd/nmd_back.webp"
+
+    },
+
+    {
+        "id": "7",
+        "nombre": "RunFalcon",
+        "marca": "Adidas",
+        "codigo": "RF4230",
+        "tipo": "Sneakers",
+        "precio": 28000.00,
+        "stock": "10",
+        "descripcion": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing  elit, sed do eiusmod tempor incididunt ut",
+        "descripcionLarga": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing  elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adip      iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed",
+        "portada": "/img/adidas/runfalcon/runfalcon_portada.webp",
+        "left": "/img/adidas/runfalcon/runfalcon_left.webp",
+        "right": "/img/adidas/runfalcon/runfalcon_left.webp",
+        "up": "/img/adidas/runfalcon/runfalcon_up.webp",
+        "down": "/img/adidas/runfalcon/runfalcon_down.webp",
+        "back": "/img/adidas/runfalcon/runfalcon_back.webp"
+    },
+
+    {
+        "id": "8",
+        "nombre": "Terrax",
+        "marca": "Adidas",
+        "codigo": "TR5030",
+        "tipo": "Sneakers",
+        "precio": 36000.00,
+        "stock": "2",
+        "descripcion": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing  elit, sed do eiusmod tempor incididunt ut",
+        "descripcionLarga": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing  elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adip      iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adipiscing elit, sed",
+        "portada": "/img/adidas/terrax/terrax_portada.webp",
+        "left": "/img/adidas/terrax/terrax_left.webp",
+        "right": "/img/adidas/terrax/terrax_left.webp",
+        "up": "/img/adidas/terrax/terrax_up.webp",
+        "down": "/img/adidas/terrax/terrax_down.webp",
+        "back": "/img/logo/logo.png"
+    }
+
+]
