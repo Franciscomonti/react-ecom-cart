@@ -3,12 +3,12 @@ import { CartContext } from '../../context/cartContext';
 
 const  CartWidget = () => {
 
-    const {totalProducts} = useContext(CartContext)
+    const {totalProductos} = useContext(CartContext)
 
     return (
         <div style={nav_cart_container}>
             <img src= {'/img/icon/cart_vacio.svg'} alt="icon-cart-vacio" style={style_nav_cart_img}/>
-            <span style={style_nav_cart_span}>{totalProducts()}</span>
+            <span style={style_nav_cart_span}>{totalProductos()}</span>
         </div>
     )
 }

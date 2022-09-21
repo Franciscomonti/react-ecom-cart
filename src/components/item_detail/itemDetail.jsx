@@ -9,11 +9,11 @@ const ItemDetail = ({ producto }) => {
 
     const [imagenActiva, setImagenActiva] = useState(producto.portada)
     
-    const {addProduct, isInCart} = React.useContext(CartContext)
+    const {agregarProducto, estaEnCarrito} = React.useContext(CartContext)
 
 
     function agregar(quantity) { 
-        addProduct(producto, quantity);
+        agregarProducto(producto, quantity);
     }
 
     return(
@@ -39,7 +39,7 @@ const ItemDetail = ({ producto }) => {
                     
                     <div style={ productos_cards_caract_btn_blq}>
 
-                        { isInCart(producto.id) ? 
+                        { estaEnCarrito(producto.id) ? 
                         <div style={productos_cards_btns_blq}>
                             <Link to='/' style={productos_cards_btns}>Seguir comprando</Link> 
                             <Link to='/cart' style={productos_cards_btns}>Ir al carrito</Link> 

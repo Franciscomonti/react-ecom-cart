@@ -7,11 +7,11 @@ import ItemCount from '../item-count/itemCount';
 const Item = ({ prod }) => {
     
     const [imagenActiva, setImagenActiva] = useState(prod.portada)
-    const {addProduct, isInCart} = React.useContext(CartContext)
+    const {agregarProducto, estaEnCarrito} = React.useContext(CartContext)
 
 
     function agregar(quantity) {
-        addProduct(prod, quantity)
+        agregarProducto(prod, quantity)
     }
 
 return(
@@ -37,12 +37,11 @@ return(
             
             <div style={ productos_cards_caract_btn_blq}>
             
-                { isInCart(prod.id) ? 
+                { estaEnCarrito(prod.id) ? 
                         <Link to='/cart' style={productos_cards_caract_btn_add}>Ir al carrito</Link> 
                         : 
                         <ItemCount  style={ productos_cards_caract_btn_size}  stock={prod.stock} onAdd={agregar} />
                 }
-                
                 <Link style={ productos_cards_caract_btn_add} to={`/detalle/${prod.nombre}`}>Detalles</Link>
             </div>
             

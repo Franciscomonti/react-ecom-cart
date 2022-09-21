@@ -6,7 +6,7 @@ import { CartContext } from "../../context/cartContext"
 
 const ItemCart = ({producto}) => {
 
-    const {removeProduct } = React.useContext(CartContext)
+    const {removerProducto } = React.useContext(CartContext)
     
     return(
             <div className="card-carrito">
@@ -24,7 +24,7 @@ const ItemCart = ({producto}) => {
                     </div>
                     <div className="card-carrito-desc-button">
                         <p className="card-carrito-btn">Comprar</p>
-                        <p onClick={()=>removeProduct(producto.id)} className="card-carrito-btn">Eliminar</p>
+                        <p onClick={()=>removerProducto(producto.id)} className="card-carrito-btn">Eliminar</p>
                     </div>
                 </div>
             </div>
