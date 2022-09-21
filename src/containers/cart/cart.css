@@ -21,3 +21,19 @@
 .Carrito-opciones-btn:hover{
     color: blue;
 }
+
+.carrito-vacio-blq{
+    margin:30vh auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.carrito-vacio-parrafo{
+
+}
+
+.carrito-vacio-lnk{
+
+}
